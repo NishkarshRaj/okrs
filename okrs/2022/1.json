@@ -7,18 +7,18 @@
       "name": "Daily Goals",
       "key_results": [
         {
-          "name": "TBD",
-          "target_result": 24,
+          "name": "10k steps",
+          "target_result": 90,
           "current_result": 0
         },
         {
-          "name": "TBD",
-          "target_result": 100,
+          "name": "Publicly Learn and Share Code",
+          "target_result": 90,
           "current_result": 0
         },
         {
-          "name": "TBD",
-          "target_result": 10,
+          "name": "Start my day at [redacted]",
+          "target_result": 90,
           "current_result": 0
         }
       ]
@@ -27,18 +27,18 @@
       "name": "Weekly Goals",
       "key_results": [
         {
-          "name": "TBD",
-          "target_result": 1,
-          "current_result": 0
-        },
-        {
-          "name": "TBD",
+          "name": "Publish a Blog Post",
           "target_result": 12,
           "current_result": 0
         },
         {
-          "name": "TBD",
-          "target_result": 3,
+          "name": "Mobile screen time averages less than an hour a day",
+          "target_result": 12,
+          "current_result": 0
+        },
+        {
+          "name": "Knowledge Share with the Community - Twitter Spaces, etc.",
+          "target_result": 12,
           "current_result": 0
         }
       ]
@@ -47,18 +47,18 @@
       "name": "Quarterly Goals",
       "key_results": [
         {
-          "name": "TBD",
-          "target_result": 1,
+          "name": "Read Books - [redacted]",
+          "target_result": 3,
           "current_result": 0
         },
         {
-          "name": "TBD",
-          "target_result": 1,
+          "name": "Certified in Cloud Native Tech",
+          "target_result": 3,
           "current_result": 0
         },
         {
-          "name": "TBD",
-          "target_result": 1000,
+          "name": "Setup my Blog Post",
+          "target_result": 1,
           "current_result": 0
         }
       ]
