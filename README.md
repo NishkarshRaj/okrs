@@ -25,19 +25,19 @@ I use **Objectives and Key Results** both for my personal and professional life 
         <td><strong>0%</strong></td>
       </tr>
       <tr>
-        <td>↳ TBD</td>
+        <td>↳ 10k steps</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
       </tr>
     <tr>
-        <td>↳ TBD</td>
+        <td>↳ Publicly Learn and Share Code</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
       </tr>
     <tr>
-        <td>↳ TBD</td>
+        <td>↳ Start my day at [redacted]</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
@@ -49,19 +49,19 @@ I use **Objectives and Key Results** both for my personal and professional life 
         <td><strong>0%</strong></td>
       </tr>
       <tr>
-        <td>↳ TBD</td>
+        <td>↳ Publish a Blog Post</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
       </tr>
     <tr>
-        <td>↳ TBD</td>
+        <td>↳ Mobile screen time averages less than an hour a day</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
       </tr>
     <tr>
-        <td>↳ TBD</td>
+        <td>↳ Knowledge Share with the Community - Twitter Spaces, etc.</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
@@ -73,19 +73,19 @@ I use **Objectives and Key Results** both for my personal and professional life 
         <td><strong>0%</strong></td>
       </tr>
       <tr>
-        <td>↳ TBD</td>
+        <td>↳ Read Books - [redacted]</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
       </tr>
     <tr>
-        <td>↳ TBD</td>
+        <td>↳ Certified in Cloud Native Tech</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
       </tr>
     <tr>
-        <td>↳ TBD</td>
+        <td>↳ Setup my Blog Post</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>

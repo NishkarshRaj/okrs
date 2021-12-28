@@ -16,23 +16,23 @@
               "success": 0,
               "key_results": [
                 {
-                  "name": "TBD",
+                  "name": "10k steps",
                   "current_result": 0,
-                  "target_result": 24,
+                  "target_result": 90,
                   "progress": 0,
                   "success": 0
                 },
                 {
-                  "name": "TBD",
+                  "name": "Publicly Learn and Share Code",
                   "current_result": 0,
-                  "target_result": 100,
+                  "target_result": 90,
                   "progress": 0,
                   "success": 0
                 },
                 {
-                  "name": "TBD",
+                  "name": "Start my day at [redacted]",
                   "current_result": 0,
-                  "target_result": 10,
+                  "target_result": 90,
                   "progress": 0,
                   "success": 0
                 }
@@ -44,23 +44,23 @@
               "success": 0,
               "key_results": [
                 {
-                  "name": "TBD",
-                  "current_result": 0,
-                  "target_result": 1,
-                  "progress": 0,
-                  "success": 0
-                },
-                {
-                  "name": "TBD",
+                  "name": "Publish a Blog Post",
                   "current_result": 0,
                   "target_result": 12,
                   "progress": 0,
                   "success": 0
                 },
                 {
-                  "name": "TBD",
+                  "name": "Mobile screen time averages less than an hour a day",
                   "current_result": 0,
-                  "target_result": 3,
+                  "target_result": 12,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Knowledge Share with the Community - Twitter Spaces, etc.",
+                  "current_result": 0,
+                  "target_result": 12,
                   "progress": 0,
                   "success": 0
                 }
@@ -72,23 +72,23 @@
               "success": 0,
               "key_results": [
                 {
-                  "name": "TBD",
+                  "name": "Read Books - [redacted]",
                   "current_result": 0,
-                  "target_result": 1,
+                  "target_result": 3,
                   "progress": 0,
                   "success": 0
                 },
                 {
-                  "name": "TBD",
+                  "name": "Certified in Cloud Native Tech",
                   "current_result": 0,
-                  "target_result": 1,
+                  "target_result": 3,
                   "progress": 0,
                   "success": 0
                 },
                 {
-                  "name": "TBD",
+                  "name": "Setup my Blog Post",
                   "current_result": 0,
-                  "target_result": 1000,
+                  "target_result": 1,
                   "progress": 0,
                   "success": 0
                 }
