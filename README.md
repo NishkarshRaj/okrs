@@ -55,7 +55,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
         <td>0%</td>
       </tr>
     <tr>
-        <td>↳ Mobile screen time averages less than an hour a day</td>
+        <td>↳ Mobile screen time averages less than two hours a day</td>
         <td>0%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>0%</td>
